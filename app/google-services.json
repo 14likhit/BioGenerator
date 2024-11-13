@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "614184282759",
+    "project_id": "bio-generator-442605",
+    "storage_bucket": "bio-generator-442605.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614184282759:android:a0a28230dfdb077504a622",
+        "android_client_info": {
+          "package_name": "com.date.biogenerator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvKbZblHCR934HCUUJ3x-oKZXLe-mgeMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
